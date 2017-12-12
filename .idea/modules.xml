@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HotFixDemo.iml" filepath="$PROJECT_DIR$/HotFixDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinker-bugly/tinker-bugly.iml" filepath="$PROJECT_DIR$/tinker-bugly/tinker-bugly.iml" />
       <module fileurl="file://$PROJECT_DIR$/tinker-local/tinker-local.iml" filepath="$PROJECT_DIR$/tinker-local/tinker-local.iml" />
     </modules>
   </component>

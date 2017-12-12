@@ -1,0 +1,9 @@
+ext {
+    android = [compileSdkVersion: 26,
+               applicationId    : "com.lqr.tinker_bugly",
+               minSdkVersion    : 16,
+               targetSdkVersion : 26,
+               versionCode      : 1,
+               versionName      : "1.0"]
+//    dependencies = ["appcompat-v7": "com.android.support:appcompat-v7:23.4.0"]
+}
